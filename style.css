@@ -1050,6 +1050,13 @@ h4 {
     height: 40px;
 }
 
+.col-sm-6
+{
+    width: 200px;
+    height: 200px;
+}
+
+
 h2
 {
     font-size: 16px;
@@ -1059,3 +1066,4 @@ p
 {
     font-size : 13px;
 }
+
