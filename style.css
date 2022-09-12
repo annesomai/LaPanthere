@@ -303,11 +303,12 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
+    width: auto;
     margin: 0 5px 0 0;
     display: inline;
 }
 
-.navbar-brand img[src$=webp] {
+.navbar-brand img[src$=png] {
     min-width: 100px;
 }
 
@@ -1046,8 +1047,8 @@ h4 {
 
 .navbar-brand img
 {
-    width: 40px;
-    height: 40px;
+    width: auto;
+    height: 30px;
 }
 
 .col-sm-6
