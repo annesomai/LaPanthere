@@ -820,6 +820,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/image-travail-agence.webp");
+    background-blend-mode: darken;
 }
 
 .bg-presentation {
